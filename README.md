@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 👀 I’m interested in DevOps and Cloud Computing
+### 📡 I’m currently learning Go,Python and Kubernetes
+### 🖥️ Very Interested in Infrastructure as Code, General Knowledge of Linux, Kubernetes and Python
+### 📫 How to reach me charalambos910@gmail.com
+### 🦾 Always like to hustle 🦾
+### 🤖 Automation is fun
+
 <!--
 **charalamposlamprou/charalamposlamprou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
