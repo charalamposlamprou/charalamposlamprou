@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### 👀 I’m interested in DevOps and Cloud Computing
-### 📡 I’m currently learning Go,Python and Kubernetes
-### 🖥️ Very Interested in Infrastructure as Code, General Knowledge of Linux, Kubernetes and Python
+### 📡 I’m currently learning Kubernetes
+### 🖥️ Very Interested in Infrastructure as Code, Extensive knowledge of Linux
 ### 📫 How to reach me charalambos910@gmail.com
 ### 🦾 Always like to hustle 🦾
 ### 🤖 Automation is fun
