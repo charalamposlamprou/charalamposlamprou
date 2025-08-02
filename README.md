@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Charalambos – a passionate DevOps enthusiast driven by automation, scalability, and cloud-native technologies.
+I'm **Charalambos** – a passionate DevOps enthusiast driven by automation, scalability, and cloud-native technologies.
 
 ---
 
 ### 👀 Interests
 - **DevOps** & **Cloud Computing**
-- **Kubernetes** (currently diving deep 🧠)
+- **Kubernetes** (currently diving deep ☸️)
 - **Infrastructure as Code (IaC)** – I love building things the right way from the ground up
 - **Linux** – Extensive knowledge & daily driver
 - **Automation** – Making life easier, one script at a time
@@ -21,33 +21,34 @@ I'm Charalambos – a passionate DevOps enthusiast driven by automation, scalabi
 ---
 
 ### 📫 Get in Touch
-Feel free to reach out:  
 📧 **charalambos910@gmail.com**
 
 ---
 
-### 🤖 Favorite Stack & Tools
-- 🐧 Linux | 🐳 Docker | ☸️ Kubernetes  
-- 🌩️ AWS / GCP  
-- 🛠️ Terraform | Ansible | GitHub Actions  
-- 🧰 Bash | Python | Go (learning)
+### 🧰 Tech Stack & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ---
 
-Thanks for stopping by! 🚀  
-Let's automate the boring stuff and scale what matters.
+### 📊 GitHub Stats
 
-<!--
-**charalamposlamprou/charalamposlamprou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_rank=true)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Fun Fact
+> 🤖 *Automation is fun* – and it's even better when it saves hours of manual work.
+
+---
+
+Thanks for stopping by! Let's connect and build cool, scalable stuff 🚀
