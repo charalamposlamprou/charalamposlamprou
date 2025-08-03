@@ -1,7 +1,8 @@
-## Connect with me
+## 👥 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/charalamboslambrou/)
 
+---
 
 # Welcome to my GitHub profile!
 Here you'll find projects I’m working on, learning from, or sharing with the world.
