@@ -47,7 +47,7 @@ I'm **Charalampos** – a passionate DevOps enthusiast driven by automation, sca
 
 ### 📊 GitHub Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=charalamposlamprou&show_icons=true&count_private=true&theme=radical&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charalamposlamprou&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_rank=true)
 
 
 
