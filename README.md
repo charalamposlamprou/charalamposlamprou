@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/charalamboslambrou/)
 
 
-# Hi there 👋
+# Welcome to my GitHub profile!
+Here you'll find projects I’m working on, learning from, or sharing with the world.
 
 
 I'm **Charalampos** – a passionate DevOps enthusiast driven by automation, scalability, and cloud-native technologies.
