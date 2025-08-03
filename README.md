@@ -1,3 +1,7 @@
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/charalamposlamprou/)
+
 # Hi there 👋
 
 I'm **Charalampos** – a passionate DevOps enthusiast driven by automation, scalability, and cloud-native technologies.
